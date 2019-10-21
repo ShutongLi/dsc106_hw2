@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="163ec724-e8ae-48b6-89dc-5f37cf3638bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Story_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/eda-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571605682533</updated>
       <workItem from="1571605683599" duration="4455000" />
-      <workItem from="1571682920663" duration="2341000" />
+      <workItem from="1571682920663" duration="4212000" />
     </task>
     <servers />
   </component>
